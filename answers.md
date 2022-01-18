@@ -43,6 +43,16 @@ Answer 7:On branch master
 		modified:   answers.md
 
 	no changes added to commit (use "git add" and/or "git commit -a")
+Answer 8:commit 58b13425fe5533b02beda6e4b10fbc66bb0b0bd1 (HEAD -> master)
+	Author: Aidan <ac147420@ohio.edu>
+	Date:   Tue Jan 18 10:36:16 2022 -0500
+
+  	  Initial commit
+Answer 9:
+
+
+
+
 
 
 
